@@ -4,6 +4,11 @@
 
 I've built a full-stack AI product recommendation system that uses OpenAI's GPT-3.5-turbo to generate personalized product recommendations based on user preferences, liked products, and browsing history. The system features a clean, responsive frontend interface with filtering capabilities and a backend API with optimized prompt engineering, with the addition of a mock API implementation in the case that the OpenAI API is down. 
 
+## Preview 
+
+![AI Product Recommendation Engine Demo](./DemoRecommendationSystem.png)
+
+
 ## Backend Implementation
 
 For the backend, I developed a FastAPI application with the following components:
